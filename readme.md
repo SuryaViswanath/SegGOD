@@ -29,6 +29,7 @@
 ## 📖 How It Works
 
 SegGOD uses a **6-stage pipeline** to detect objects without training:
+![SegGOD Architecture](SegGOD-Architecture.png)
 
 ```
 Image + "text query" → SAM → Object Proposals → Content-Aware Interpolation → SigLIP → Detections
