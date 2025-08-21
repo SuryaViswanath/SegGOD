@@ -88,7 +88,7 @@ The notebook installs all required packages automatically:
 - **Utils**: `Pillow`, `scipy`, `timm`
 - **Pre-trained Models**: SAM checkpoints downloaded automatically
 
-## 💡 Key Features
+## Key Features
 
 - **Training-Free**: No model training required
 - **Natural Language**: Query objects using text descriptions
