@@ -150,7 +150,7 @@ This implementation accompanies the master's dissertation:
 2. **Content-Aware Interpolation**: Aspect-ratio aware preprocessing technique
 3. **Practical Framework**: Ready-to-use implementation with extensive validation
 
-## 📞 Support
+## Support
 
 For questions about this implementation:
 1. Check the notebook comments for detailed explanations
