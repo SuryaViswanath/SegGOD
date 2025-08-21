@@ -1,0 +1,119 @@
+[
+  {
+    "image": "cafe.jpg",
+    "bbox": {
+      "x": 179.5,
+      "y": 601.1875,
+      "width": 289,
+      "height": 417
+    }
+  },
+  {
+    "image": "classroom.jpg",
+    "bbox": {
+      "x": 725.0602409638554,
+      "y": 510.6329298218836,
+      "width": 704.0963855421687,
+      "height": 432.2894950040508
+    }
+  },
+  {
+    "image": "bicycle.jpg",
+    "bbox": {
+      "x": 248.13453815261045,
+      "y": 22.09136148135948,
+      "width": 3134.7068273092373,
+      "height": 2320.708680870087
+    }
+  },
+  {
+    "image": "car.jpg",
+    "bbox": {
+      "x": 485.77510040160644,
+      "y": 309.158220956529,
+      "width": 4039.084337349398,
+      "height": 2071.329257056705
+    }
+  },
+  {
+    "image": "test.webp",
+    "bbox": {
+      "x": 362.5,
+      "y": 208.1875,
+      "width": 175,
+      "height": 169
+    }
+  },
+  {
+    "image": "a-linkedin-test-1.jpg",
+    "bbox": {
+      "x": 346.5,
+      "y": 254.1875,
+      "width": 60,
+      "height": 168
+    }
+  },
+  {
+    "image": "a-linkedin-test-3.jpg",
+    "bbox": {
+      "x": 431.5,
+      "y": 1038.1875,
+      "width": 102,
+      "height": 186
+    }
+  },
+  {
+    "image": "sample-image.jpg",
+    "bbox": {
+      "x": 71.13453815261045,
+      "y": 339.60498668087376,
+      "width": 665.6626506024097,
+      "height": 195.7847629195524
+    }
+  },
+  {
+    "image": "a-linkedin-test-2.jpeg",
+    "bbox": {
+      "x": 222,
+      "y": 89.1875,
+      "width": 39,
+      "height": 24
+    }
+  },
+  {
+    "image": "test-image-7.jpg",
+    "bbox": {
+      "x": 248.5,
+      "y": 90.6875,
+      "width": 390,
+      "height": 365
+    }
+  },
+  {
+    "image": "test-image-6.jpeg",
+    "bbox": {
+      "x": 114,
+      "y": 6.1875,
+      "width": 102,
+      "height": 154
+    }
+  },
+  {
+    "image": "test-image-3.webp",
+    "bbox": {
+      "x": 97.5,
+      "y": 18.6875,
+      "width": 498,
+      "height": 498
+    }
+  },
+  {
+    "image": "test-image-2.webp",
+    "bbox": {
+      "x": 242.5,
+      "y": 89.1875,
+      "width": 144,
+      "height": 187
+    }
+  }
+]
